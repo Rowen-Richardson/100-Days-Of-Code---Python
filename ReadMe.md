@@ -38,3 +38,26 @@ Welcome my 100 Days of Coding - Python repository! This document outlines the pr
         - You can click on the end of the question text and start typing.
 
 Happy Coding! and thank you for trying the weired menu. 
+
+## Day 4 - Print in Colour
+
+- I'm writing my own adventure story and making the project POP with some color!
+- learned about using \033[1;31m for red text and \033[1;32m for green text
+- I also learned about the use of \033[0m to reset the color back to normal
+
+        The below text is the colour grading of the adventure story or the coloures used.
+
+            Color	Value
+            Default	0
+            Black	30
+            Red	31
+            Green	32
+            Yellow	33
+            Blue	34
+            Purple	35
+            Cyan	36
+            White	37
+
+<h3>Feel free to try out my wacky Jedi adventure story and see how it looks with different colours.</h3>
+
+- 📕📖 Wacky Jedi Adventure Story [Click Me So We can have a Wacky Story Day...](https://replit.com/@richardsonrowen/day4100-days)
