@@ -61,3 +61,9 @@ Happy Coding! and thank you for trying the weired menu.
 <h3>Feel free to try out my wacky Jedi adventure story and see how it looks with different colours.</h3>
 
 - 📕📖 Wacky Jedi Adventure Story [Click Me So We can have a Wacky Story Day...](https://replit.com/@richardsonrowen/day4100-days)
+
+## Day 5 - What the Elif (If and Else Statments) 🧝🏽
+
+- Else and If statments and how to use them with conditions 
+- Learned proper indentation and syntax error how they occur and what to look out for.
+- Built my very first Akinator 🧞‍♂️ style game with 'if' statements
