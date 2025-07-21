@@ -67,3 +67,9 @@ Happy Coding! and thank you for trying the weired menu.
 - Else and If statments and how to use them with conditions 
 - Learned proper indentation and syntax error how they occur and what to look out for.
 - Built my very first Akinator 🧞‍♂️ style game with 'if' statements
+
+## Day 6 - What the Elif 🧝🏽
+
+- Learned about the elif statment
+- Did a bit more creating more like a mini login form where users are asked about they username or name and password.
+- 
