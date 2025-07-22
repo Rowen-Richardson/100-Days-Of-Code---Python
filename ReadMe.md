@@ -72,4 +72,11 @@ Happy Coding! and thank you for trying the weired menu.
 
 - Learned about the elif statment
 - Did a bit more creating more like a mini login form where users are asked about they username or name and password.
-- 
+
+## Day 7 - The Nesting Doll / Code 🪆
+
+- Learned about nesting code and how code is nested in itself
+- learned how to properly fix nesting code and endintations
+- built a true fan detector like a mini detictive to see if people truly like a show 
+
+![alt text](image.png)
