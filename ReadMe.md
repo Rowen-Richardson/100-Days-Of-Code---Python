@@ -80,3 +80,13 @@ Happy Coding! and thank you for trying the weired menu.
 - built a true fan detector like a mini detictive to see if people truly like a show 
 
 ![alt text](image.png)
+
+## Day 8 - Good Vibes Affirmation Generator 😎
+
+- This day was all about putting everything I've learned from day one till today into one project.
+- It was a great review; I used everything from variables, inputs, if/elif/else, and even colored text.
+- Built a cool affirmation generator to send out some good vibes!
+
+<h3>Feel free to try out my affirmation generator and get some good vibes!</h3>
+
+- ✨ Affirmation Generator [Click Me for some Positive Affirmations!](https://replit.com/@richardsonrowen/day8100-days)
