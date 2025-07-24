@@ -90,3 +90,12 @@ Happy Coding! and thank you for trying the weired menu.
 <h3>Feel free to try out my affirmation generator and get some good vibes!</h3>
 
 - ✨ Affirmation Generator [Click Me for some Positive Affirmations!](https://replit.com/@richardsonrowen/day8100-days)
+
+## Day 9 - Casting 🔄
+
+- This day was all about understanding data types and how to convert between them.
+- Learned the importance of casting to ensure variables are in the correct format for calculations or comparisons.
+- Practiced casting with integers, floats, and strings to see how they interact.
+- Built small snippets to convert user input into the right data type for different scenarios.
+
+It was a day of making sure my data types are in the right shape to work with, and I now feel more confident handling different kinds of data in Python!
