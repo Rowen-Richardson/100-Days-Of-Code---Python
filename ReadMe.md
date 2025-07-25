@@ -2,14 +2,14 @@
 
 Welcome my 100 Days of Coding - Python repository! This document outlines the progress and activities completed from Day 1 to Day 100.
 
-## Day 1 - Welcome to Python 
+## Day 1 - Welcome to Python 🐍
 
 - I've learned the python basics of print statments and functions 
 - Created a main.py file with correct syntax, how to print on terminal
 - The correct way to print multiple string texts and use Emoji's in python 🥳
 
 
-##  Day 2 - Input and Variablise
+##  Day 2 - Input and Variablise 👥
 
 - Learned more about the input function why we use it and its purpose.
 - Variables and how variables store states or information of what was input in the terminal.
@@ -20,7 +20,7 @@ Welcome my 100 Days of Coding - Python repository! This document outlines the pr
 
 - 👨🏽‍💻 Getting to know you better [Click Me So I can get to know you better](https://replit.com/@richardsonrowen/day2100-days)
 
-## Day 3 - Concatinating 
+## Day 3 - Concatinating ➕
 
 - How to concatenate. I learned what concatenting is.
 - Built a funny weird menu project 
@@ -39,7 +39,7 @@ Welcome my 100 Days of Coding - Python repository! This document outlines the pr
 
 Happy Coding! and thank you for trying the weired menu. 
 
-## Day 4 - Print in Colour
+## Day 4 - Print in Colour 🖨️📚
 
 - I'm writing my own adventure story and making the project POP with some color!
 - learned about using \033[1;31m for red text and \033[1;32m for green text
