@@ -99,3 +99,39 @@ Happy Coding! and thank you for trying the weired menu.
 - Built small snippets to convert user input into the right data type for different scenarios.
 
 It was a day of making sure my data types are in the right shape to work with, and I now feel more confident handling different kinds of data in Python!
+
+## Day 10 - Show me the money 💰
+
+- Learned about mathamatical functions and they operators 
+- it was all about math today so Used the following math symbols 
+
+        *The following Math Symbols where used*
+
+        + - Addition
+        - - Subtraction
+        * - Multiplication
+        / - Division
+        % - Modulo gives us the remainder of the division
+        ** - Squared this gives us the square root also known as the exponent
+        // - Divisor this divided whole numbers or divides whole numbers
+
+        *We also need to take note of the fact that the equals sign (=) is used to assign values to variables and can not be used as a part of an expression. That's why we use the print statment to give us the calculated answer.*
+
+- Built my own tip calculator! 
+    - the calculator functions as follows:
+
+        We ask users the total bill amount
+        Then the total number of users splitting the bill if any
+        Once they've answered the to questions we ask them how much they want to tip
+
+        And when thats all done the calculator does the following:
+
+        It first takes the tip divides it by 100 then multiplies it by the bill.
+        after that the answer is returned by rounding off by 2 decimal places once the 
+        bill and the final tip amount has been added. 
+
+        example:
+
+            totalBill = round(bill + tip, 2)
+            prints(totalBill)
+
