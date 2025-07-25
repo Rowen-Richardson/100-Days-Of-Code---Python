@@ -62,13 +62,13 @@ Happy Coding! and thank you for trying the weired menu.
 
 - 📕📖 Wacky Jedi Adventure Story [Click Me So We can have a Wacky Story Day...](https://replit.com/@richardsonrowen/day4100-days)
 
-## Day 5 - What the Elif (If and Else Statments) 🧝🏽
+## Day 5 - What the Elif (If and Else Statments) pt.1 🧝🏽
 
 - Else and If statments and how to use them with conditions 
 - Learned proper indentation and syntax error how they occur and what to look out for.
 - Built my very first Akinator 🧞‍♂️ style game with 'if' statements
 
-## Day 6 - What the Elif 🧝🏽
+## Day 6 - What the Elif pt.2 🧝🏽
 
 - Learned about the elif statment
 - Did a bit more creating more like a mini login form where users are asked about they username or name and password.
@@ -115,7 +115,9 @@ It was a day of making sure my data types are in the right shape to work with, a
         ** - Squared this gives us the square root also known as the exponent
         // - Divisor this divided whole numbers or divides whole numbers
 
-        *We also need to take note of the fact that the equals sign (=) is used to assign values to variables and can not be used as a part of an expression. That's why we use the print statment to give us the calculated answer.*
+        *We also need to take note of the fact that the equals sign (=) is used to assign values to 
+        variables and can not be used as a part of an expression. That's why we use the print 
+        statment to give us the calculated answer.*
 
 - Built my own tip calculator! 
     - the calculator functions as follows:
