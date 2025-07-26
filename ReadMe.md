@@ -137,3 +137,7 @@ It was a day of making sure my data types are in the right shape to work with, a
             totalBill = round(bill + tip, 2)
             prints(totalBill)
 
+## Day 11 - 525,600 Min ⏱️
+- Did my first own real challenge. Building a simple year to min calculator
+- Research has been done on my end using google as a resourse to remind myself how years to min are calculated
+- used everything I've learned from day one till now to get this far.
