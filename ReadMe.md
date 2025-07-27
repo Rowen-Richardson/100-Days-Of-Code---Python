@@ -141,3 +141,8 @@ It was a day of making sure my data types are in the right shape to work with, a
 - Did my first own real challenge. Building a simple year to min calculator
 - Research has been done on my end using google as a resourse to remind myself how years to min are calculated
 - used everything I've learned from day one till now to get this far.
+
+## Day 12 - Its all about the bugs 🚫🪲
+- Did some debugging
+- used my experince to solve the bugs
+- learned that the console or the terminal can be used a source to find and debug quickly
