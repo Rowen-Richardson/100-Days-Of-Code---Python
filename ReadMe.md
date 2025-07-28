@@ -146,3 +146,8 @@ It was a day of making sure my data types are in the right shape to work with, a
 - Did some debugging
 - used my experince to solve the bugs
 - learned that the console or the terminal can be used a source to find and debug quickly
+
+## Day 13 - Whats your grade 🅰️➕
+- Had to use all the skilles learned from Day 1 till now
+- Building the app was fun and it tested my abilities to self code 
+- I feel comfortable coding by myself now it seems fun and interesting 
