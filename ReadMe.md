@@ -151,3 +151,10 @@ It was a day of making sure my data types are in the right shape to work with, a
 - Had to use all the skilles learned from Day 1 till now
 - Building the app was fun and it tested my abilities to self code 
 - I feel comfortable coding by myself now it seems fun and interesting 
+
+## Day 14 - Lets play a game of 🪨📰✂️
+- Today is all about playing Rock, paper scissors
+- Focusing on nesting statments
+- Built a two player rock paper scissors game where each players answers are hidden.
+
+![alt text](image-1.png)
