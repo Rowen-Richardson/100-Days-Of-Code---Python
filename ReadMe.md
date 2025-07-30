@@ -158,3 +158,28 @@ It was a day of making sure my data types are in the right shape to work with, a
 - Built a two player rock paper scissors game where each players answers are hidden.
 
 ![alt text](image-1.png)
+
+## Day 15 - What's a while 🔁
+- Learned about while loops 
+- I've also learned that if you don't have two conditions to nest a statment you can yous the [else] statment to do so 
+- built a little while loop or game asking users to choose an animal from a list of 4 animals to get a sound out 
+
+    <h4>Heres what I learned or built visually</h4>
+
+    -   exit = ""
+
+        while exit != "yes":
+            animal = input("What animal would you like to hear? ")
+            if animal == "cow":
+                print("Well a Cow goes Mooo.")
+            else:
+                if animal == "dog":
+                    print("A dog goes woof woof.")
+                elif animal == "cat":
+                    print("Do cats even make a sound? I guess cats go meaow")
+                elif animal == "lesser spotted lemur":
+                    print("This is a funny one cause the Lesser Spotted Lemur goes awooga")
+                else:
+                    print("That's not an animal silly")
+            exit = input("Would you like to EXIT?: ")
+            
