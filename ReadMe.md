@@ -182,4 +182,7 @@ It was a day of making sure my data types are in the right shape to work with, a
                 else:
                     print("That's not an animal silly")
             exit = input("Would you like to EXIT?: ")
-            
+
+## Day 16 -What the infinit loop ➿
+- how to end or stop loops using the break method 
+- created a mini games
