@@ -183,6 +183,13 @@ It was a day of making sure my data types are in the right shape to work with, a
                     print("That's not an animal silly")
             exit = input("Would you like to EXIT?: ")
 
-## Day 16 -What the infinit loop ➿
+## Day 16 - What the infinit loop ➿
 - how to end or stop loops using the break method 
 - created a mini games
+
+## Day 17 - Lets break and exit from loops 🔁➿
+- learned how to break a loop and exit from one
+- updated my rock paper sciorss game
+- had a chanllenge but fix it and figured out here I went wrong 
+    - which was not properly calling the score counters and objects
+    - and not being able to aquratily keep they score up to date 
