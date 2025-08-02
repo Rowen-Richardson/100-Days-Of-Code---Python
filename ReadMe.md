@@ -193,3 +193,7 @@ It was a day of making sure my data types are in the right shape to work with, a
 - had a chanllenge but fix it and figured out here I went wrong 
     - which was not properly calling the score counters and objects
     - and not being able to aquratily keep they score up to date 
+
+## Day 18 - Take a guess 🤔💭
+- Built a guessing game 
+- did some research on negative veriables and positive ones
