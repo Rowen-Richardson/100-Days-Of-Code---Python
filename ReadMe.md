@@ -37,7 +37,7 @@ Welcome my 100 Days of Coding - Python repository! This document outlines the pr
         - Under the Console, you will see the output of the program
         - You can click on the end of the question text and start typing.
 
-Happy Coding! and thank you for trying the weired menu. 
+Happy Coding! and thank you for trying the weird menu. 
 
 ## Day 4 - Print in Colour 🖨️📚
 
@@ -196,4 +196,5 @@ It was a day of making sure my data types are in the right shape to work with, a
 
 ## Day 18 - Take a guess 🤔💭
 - Built a guessing game 
-- did some research on negative veriables and positive ones
+- Did some research on negative veriables and positive ones how to use them properly
+- Saw that for negative veriables all I had to do was use the lesser than sign and a zero after that.
