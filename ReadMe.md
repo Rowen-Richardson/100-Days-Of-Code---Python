@@ -198,3 +198,8 @@ It was a day of making sure my data types are in the right shape to work with, a
 - Built a guessing game 
 - Did some research on negative veriables and positive ones how to use them properly
 - Saw that for negative veriables all I had to do was use the lesser than sign and a zero after that.
+
+## Day 19 - For Loops 🔁➿🤔
+- Built an interest calculator
+- learned that for loops usually need to have a set range
+- moved from test coding to real world appliction coding 
