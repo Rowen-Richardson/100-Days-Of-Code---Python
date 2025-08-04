@@ -203,3 +203,16 @@ It was a day of making sure my data types are in the right shape to work with, a
 - Built an interest calculator
 - learned that for loops usually need to have a set range
 - moved from test coding to real world appliction coding 
+
+## Day 20 - Whats the range 🛣️
+- basics in learning about range nothing to hectic 
+- learned about counting backwards and forwards
+- learned that 3 verabiles can be used in the range 
+    - the number you start with 
+    - the number you want to end with. Which needs to be greater than the last number you want to end with 
+        i.e if you want the last number to be 10 you'll end with 11 and so on 
+    - and the step or number you want to count by
+        i.e if you want to count in 1's it will count from 1 till 10
+            or if you want to count in 2's it will count from 1 to 10 by 2's
+            so it will be something like this:
+            1, 3, 5, 7, 9 because you are counting in 2's it will add the two
