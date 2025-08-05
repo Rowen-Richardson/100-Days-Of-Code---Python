@@ -216,3 +216,7 @@ It was a day of making sure my data types are in the right shape to work with, a
             or if you want to count in 2's it will count from 1 to 10 by 2's
             so it will be something like this:
             1, 3, 5, 7, 9 because you are counting in 2's it will add the two
+
+## Day 21 - What the table 🏓
+- Lets get to know if you know your times tables 
+- Built a times table game with for loops and range 
