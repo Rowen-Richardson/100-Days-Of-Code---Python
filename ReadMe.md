@@ -220,3 +220,14 @@ It was a day of making sure my data types are in the right shape to work with, a
 ## Day 21 - What the table 🏓
 - Lets get to know if you know your times tables 
 - Built a times table game with for loops and range 
+
+## Day 22 - Whats that library 📑📔
+- learned about librarys and they function
+- understand that librarys are a bunch of code that other users created that we can use in our code base instead of writting miles 
+and miles of code
+- Librarys are also like game engines or are mostly used for game engines.
+
+## Day 23 - Subroutines
+
+- Subrouts store code for us to use anywhere and any how in our codebase
+- 
