@@ -230,4 +230,8 @@ and miles of code
 ## Day 23 - Subroutines
 
 - Subrouts store code for us to use anywhere and any how in our codebase
-- 
+
+## Day 24 - Parameters
+
+- we learning about passing arguments and the correct use of the parameter 
+- learned we can pass more than one argument to make or have more values in the subrout
