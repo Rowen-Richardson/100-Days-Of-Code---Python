@@ -235,3 +235,10 @@ and miles of code
 
 - we learning about passing arguments and the correct use of the parameter 
 - learned we can pass more than one argument to make or have more values in the subrout
+
+## Day 25 - Return command
+
+- the return command sends back code to the subroute
+- learned that we can not leave the scope of the subroute
+- how scopes and nesting needs to wrok when using or running subroutes 
+- also built a modest health points game.
