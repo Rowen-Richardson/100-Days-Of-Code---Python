@@ -242,3 +242,8 @@ and miles of code
 - learned that we can not leave the scope of the subroute
 - how scopes and nesting needs to wrok when using or running subroutes 
 - also built a modest health points game.
+
+## Day 26 - More Libraries 📚
+
+- learning about the os library and how it talks directly to the console or temrinal directly
+- the time library basically runs the time delay between code executions when you type in time.sleep()
